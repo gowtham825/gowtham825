@@ -70,7 +70,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ibb.co/tp97wrT' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://cdn.pixabay.com/photo/2016/11/05/11/15/resume-1799953_1280.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
